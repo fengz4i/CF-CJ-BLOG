@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    background-image: url('../IMG/img002.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.main-content img{  
+    width: 30%;
+    align-items:center  
+    
+}   
+
+.top-section{
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 20px;
+    
+}
+
